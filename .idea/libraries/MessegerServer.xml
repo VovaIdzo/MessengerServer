@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MessegerServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MessegerServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
